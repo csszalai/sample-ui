@@ -15,7 +15,7 @@ This app is built using React.js Boilerplate project.
 * Support Server-side rendering
 
 This is great :)
-
+Of course it is!
 
 ### Installation
 
