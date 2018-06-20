@@ -15,6 +15,7 @@ This app is built using React.js Boilerplate project.
 * Support Server-side rendering
 
 PR Builder.
+New commit :)
 
 
 ### Installation
