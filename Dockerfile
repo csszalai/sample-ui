@@ -8,7 +8,7 @@ ENV NPM_CONFIG_LOGLEVEL warn
 # Copy all local files into the image.
 COPY . .
 
-
+# Install required packages
 RUN npm install
 
 # Build for production.
