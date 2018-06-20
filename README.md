@@ -14,6 +14,9 @@ This app is built using React.js Boilerplate project.
 * Support 404 Not found page
 * Support Server-side rendering
 
+This is great :)
+
+
 ### Installation
 
 Clone repository:
