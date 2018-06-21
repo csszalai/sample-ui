@@ -8,6 +8,7 @@ pipeline {
                 sleep 10
                 sh 'ls -lah'
                 sh 'git log -3'
+                sh "cat Jenkinsfile"
             }
         }
     }
