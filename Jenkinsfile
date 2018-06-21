@@ -1,15 +1,13 @@
 
 pipeline {
-    agent {
-        docker { image 'node:7-alpine' }
-    }
+    agent { label "docker-jenkins-jnlp-slave" }
+
     stages {
         stage('Test') {
             steps {
-                sh 'node --version'
+                sleep 10
                 sh 'ls -lah'
-                echo "Removed Lightweight checkout option from pipeline job git SCM settings."
-                echo "Please rerun tests."
+                sh 'git log -3'
             }
         }
     }
