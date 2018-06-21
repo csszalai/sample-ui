@@ -14,16 +14,8 @@ This app is built using React.js Boilerplate project.
 * Support 404 Not found page
 * Support Server-side rendering
 
-This is great :)
-Of course it is!
-Shall we trigger a build?
-New comment for test 4.
-Okay.
-Update.
-New commit.
-Update.
-Something.
-
+PR Builder.
+New commit :)
 
 
 ### Installation
@@ -65,3 +57,14 @@ npm run build
 ```
 New things
 New thingsss
+New thingssssss
+New thingssssss
+New thingsssssssss
+New thingssssssssssfsdf
+New thasdingssssssssssfsdf
+New thasdingssssssssssfsdf
+New asdsad thasdingssssssssssfsdf
+New asdsad thasdingssssssssssfsdf
+New asdsad thasdingssssssssssfsdf
+New asdsad thasdingssssssssssfsdf
+New commit.
